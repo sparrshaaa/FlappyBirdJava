@@ -13,10 +13,4 @@ A simple **Flappy Bird** clone built in **Java** using **JFrame** and **JPanel**
 - Collision detection between the bird and pipes.  
 - Score tracking displayed during gameplay.  
 
-## How to Run ▶️
-1. Clone the repository:  
-   ```bash
-   git clone <your-repo-link>
-=======
 
->>>>>>> 13e7029c00a4adc47ad7bf03699eb4cfad6548cc
